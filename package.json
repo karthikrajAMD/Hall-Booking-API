@@ -1,5 +1,7 @@
 {
-  "type": "module",
+  "name": "hall-booking-API",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
